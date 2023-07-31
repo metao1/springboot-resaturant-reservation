@@ -10,10 +10,9 @@ Java 17
 Maven
 
 ## Getting Started
+Clone the repository and after getting into the project directory, run the following command:
 
-Create a Spring Boot project using a project initializer such as start.spring.io. You can choose either version 2 or 3
-of the framework.
-Use Maven to build the application so that it can be executed by running mvn spring-boot:run.
+```mvn spring-boot:run```
 
 ## API Endpoints
 

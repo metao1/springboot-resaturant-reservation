@@ -1,11 +1,11 @@
-package com.example.restaurant.repository.model;
+package com.example.restaurant.model;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ResponseStatus(value = HttpStatus.NOT_FOUND)
-public class TableNotFoundException extends RuntimeException {
-    public TableNotFoundException(String msg) {
+public class ReservationNotFoundException extends RuntimeException {
+    public ReservationNotFoundException(String msg) {
         super(msg);
     }
 }

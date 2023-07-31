@@ -1,6 +1,7 @@
 package com.example.restaurant.service;
 
-import com.example.restaurant.dto.ReservationResponse;
+import com.example.restaurant.controller.dto.ReservationResponse;
+import com.example.restaurant.model.*;
 import com.example.restaurant.repository.ReservationRepository;
 import com.example.restaurant.repository.model.*;
 import com.example.restaurant.service.factory.ReservationFactory;

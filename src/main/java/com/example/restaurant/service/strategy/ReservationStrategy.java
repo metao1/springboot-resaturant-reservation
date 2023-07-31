@@ -1,7 +1,7 @@
 package com.example.restaurant.service.strategy;
 
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.TableEntity;
+import com.example.restaurant.model.ReservationEntity;
+import com.example.restaurant.model.TableEntity;
 
 public interface ReservationStrategy {
 

@@ -1,8 +1,8 @@
 package com.example.restaurant.controller;
 
-import com.example.restaurant.dto.ReservationRequest;
-import com.example.restaurant.dto.ReservationResponse;
-import com.example.restaurant.repository.model.ReservationNotFoundException;
+import com.example.restaurant.controller.dto.ReservationRequest;
+import com.example.restaurant.controller.dto.ReservationResponse;
+import com.example.restaurant.model.ReservationNotFoundException;
 import com.example.restaurant.service.ReservationService;
 import com.example.restaurant.service.util.ReservationMapperUtil;
 import lombok.RequiredArgsConstructor;

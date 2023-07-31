@@ -1,4 +1,4 @@
-package com.example.restaurant.repository.model;
+package com.example.restaurant.model;
 
 import lombok.Getter;
 

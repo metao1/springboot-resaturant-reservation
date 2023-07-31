@@ -1,10 +1,10 @@
 package com.example.restaurant.controller;
 
-import com.example.restaurant.dto.ReservationRequest;
+import com.example.restaurant.controller.dto.ReservationRequest;
 import com.example.restaurant.repository.ReservationRepository;
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.ReservationStatus;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.ReservationEntity;
+import com.example.restaurant.model.ReservationStatus;
+import com.example.restaurant.model.TableLocationType;
 import com.example.restaurant.service.ReservationService;
 import com.example.restaurant.service.util.ReservationMapperUtil;
 import com.example.restaurant.util.TestUtil;

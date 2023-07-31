@@ -1,8 +1,8 @@
 package com.example.restaurant.repository;
 
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.ReservationStatus;
-import com.example.restaurant.repository.model.TableEntity;
+import com.example.restaurant.model.ReservationEntity;
+import com.example.restaurant.model.ReservationStatus;
+import com.example.restaurant.model.TableEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.example.restaurant.dto;
+package com.example.restaurant.controller.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

@@ -2,9 +2,9 @@ package com.example.restaurant.service.strategy;
 
 import com.example.restaurant.util.TestUtil;
 import com.example.restaurant.repository.ReservationRepository;
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.TableEntity;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.ReservationEntity;
+import com.example.restaurant.model.TableEntity;
+import com.example.restaurant.model.TableLocationType;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

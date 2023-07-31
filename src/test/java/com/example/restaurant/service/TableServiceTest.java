@@ -1,8 +1,8 @@
 package com.example.restaurant.service;
 
 import com.example.restaurant.repository.TableRepository;
-import com.example.restaurant.repository.model.TableEntity;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.TableEntity;
+import com.example.restaurant.model.TableLocationType;
 import com.example.restaurant.util.TestUtil;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;

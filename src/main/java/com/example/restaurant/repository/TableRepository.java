@@ -1,7 +1,7 @@
 package com.example.restaurant.repository;
 
-import com.example.restaurant.repository.model.TableEntity;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.TableEntity;
+import com.example.restaurant.model.TableLocationType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

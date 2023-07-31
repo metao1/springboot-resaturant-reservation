@@ -1,7 +1,7 @@
 package com.example.restaurant.service.handler;
 
-import com.example.restaurant.dto.ApiError;
-import com.example.restaurant.repository.model.TableNotFoundException;
+import com.example.restaurant.controller.dto.ApiError;
+import com.example.restaurant.model.TableNotFoundException;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

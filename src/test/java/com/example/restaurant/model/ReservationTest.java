@@ -1,7 +1,5 @@
 package com.example.restaurant.model;
 
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.TableLocationType;
 import org.junit.jupiter.api.Test;
 
 import static com.example.restaurant.util.TestConstants.*;

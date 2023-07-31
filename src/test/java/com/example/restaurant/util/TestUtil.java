@@ -1,8 +1,8 @@
 package com.example.restaurant.util;
 
-import com.example.restaurant.repository.model.ReservationEntity;
-import com.example.restaurant.repository.model.TableEntity;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.ReservationEntity;
+import com.example.restaurant.model.TableEntity;
+import com.example.restaurant.model.TableLocationType;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.experimental.UtilityClass;
 

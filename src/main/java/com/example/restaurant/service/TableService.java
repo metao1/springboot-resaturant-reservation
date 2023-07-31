@@ -1,8 +1,8 @@
 package com.example.restaurant.service;
 
 import com.example.restaurant.repository.TableRepository;
-import com.example.restaurant.repository.model.TableEntity;
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.TableEntity;
+import com.example.restaurant.model.TableLocationType;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

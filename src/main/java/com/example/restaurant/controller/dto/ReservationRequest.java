@@ -1,6 +1,6 @@
-package com.example.restaurant.dto;
+package com.example.restaurant.controller.dto;
 
-import com.example.restaurant.repository.model.TableLocationType;
+import com.example.restaurant.model.TableLocationType;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.validation.constraints.Future;
 import jakarta.validation.constraints.Min;

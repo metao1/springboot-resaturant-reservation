@@ -1,7 +1,7 @@
 package com.example.restaurant.service.util;
 
-import com.example.restaurant.dto.ReservationResponse;
-import com.example.restaurant.repository.model.ReservationEntity;
+import com.example.restaurant.controller.dto.ReservationResponse;
+import com.example.restaurant.model.ReservationEntity;
 import lombok.experimental.UtilityClass;
 
 @UtilityClass

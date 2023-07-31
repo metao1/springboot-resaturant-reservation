@@ -41,13 +41,11 @@ yard.
 
 An exception handler controller is implemented
 
-Responses are wrapped in a custom generic object that includes a response body, a custom response status object (enum),
-and an errors list that is empty if no errors occurred.
+Responses are wrapped in a custom generic object that includes a response body, a custom response status object (enum).
 
 ## Database
 
-An in-memory database such as H2 or a custom in-memory database is used to store initial data and reservations created
-through the API.
+An in-memory database such as H2 is used to store initial data and reservations created through the API.
 
 ## What remained to be done
 

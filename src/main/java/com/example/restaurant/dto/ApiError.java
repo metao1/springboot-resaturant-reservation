@@ -1,4 +1,4 @@
-package com.example.restaurant.config;
+package com.example.restaurant.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
@@ -7,6 +7,7 @@ import org.springframework.http.HttpStatus;
 import java.time.LocalDateTime;
 
 @Data
+public
 class ApiError {
 
    HttpStatus status;
@@ -18,7 +19,7 @@ class ApiError {
       timestamp = LocalDateTime.now();
    }
 
-   ApiError(HttpStatus status, String message) {
+   public ApiError(HttpStatus status, String message) {
       this();
       this.status = status;
       this.message = message;

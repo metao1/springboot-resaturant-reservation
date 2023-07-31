@@ -1,5 +1,6 @@
-package com.example.restaurant.config;
+package com.example.restaurant.service.handler;
 
+import com.example.restaurant.dto.ApiError;
 import com.example.restaurant.repository.model.TableNotFoundException;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.core.Ordered;

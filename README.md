@@ -1,8 +1,8 @@
 # Restaurant Reservation API
 
-The backend of the reservation website for "Joe's Diner" involves the following process:
-Restaurant Reservation API
-This project is a Spring Boot application that provides a REST API for managing restaurant reservations.
+The backend of the reservation website involves the following process:
+* Restaurant Reservation API
+  - This project is a Spring Boot application that provides a REST API for managing restaurant reservations.
 
 ## Requirements
 
